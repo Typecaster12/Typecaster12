@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Typecaster12
 - 👀 I’m interested in Cricket and programming
-- 🌱 I’m currently learning Backend Developement
+- 🌱 I’m currently learning React
 - 📫 You can contact me on instagram username is hlo_harsh_
 
 <!---
